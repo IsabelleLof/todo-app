@@ -1,0 +1,23 @@
+.popup {
+    height: 100vh;
+    width: 100vw;
+    opacity: 0.9;
+    position: absolute;
+}
+
+.popup-card {
+    background: #fff;
+    height: 400px;
+    width: 500px;
+    margin: auto;
+    top: 50%;
+    margin-top: 150px;
+}
+
+.popup-card-content {
+    padding-top: 146px;
+}
+
+h2 {
+    margin: auto;
+}
